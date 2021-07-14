@@ -1,0 +1,6 @@
+data/
+dataset/
+checkpoints/
+*.mp4
+*.avi
+*.pptx
